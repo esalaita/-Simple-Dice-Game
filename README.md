@@ -1,4 +1,4 @@
-# -Simple-Dice-Game
+# Simple-Dice-Game
 
 Used the random library,  generating random dice values
 Used the time library, introducing a delay for a more realistic dice roll effect
